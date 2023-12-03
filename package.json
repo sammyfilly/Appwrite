@@ -44,6 +44,6 @@
     "appwrite": "npm:meldiron-appwrite@11.0.2",
     "js-cookie": "^3.0.5",
     "marked": "^5.0.2",
-    "marked-gfm-heading-id": "^3.0.3"
+    "marked-gfm-heading-id": "^3.1.1"
   }
 }
